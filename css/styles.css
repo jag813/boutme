@@ -1,0 +1,45 @@
+body {
+
+  background-color: #C98474;
+  
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  height: 1px;
+  width: 5%
+
+}
+
+h1 {
+
+  color: #C6EBC5;
+  text-transform: uppercase;
+  text-shadow: 2px 2px #A1C298;
+  font-family: arial, sans-serif;
+
+}
+
+h2 {
+
+  color: #C6EBC5;
+  text-decoration-line: underline;
+
+}
+
+h3 {
+
+  color: #C6EBC5;
+  text-decoration-line: underline;
+
+}
+
+h4 {
+
+  color: #C6EBC5;
+  text-decoration-line: underline;
+
+}
